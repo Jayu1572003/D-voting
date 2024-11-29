@@ -37,7 +37,7 @@ const GetWeb3State = async () => {
     const dataSignature = { signature };
 
     const res = await axios.post(
-      `https://d-voting-backend-d-voting.vercel.app/api/v1/auth/authentication?accountAddress=${selectedAccount}`,
+      `https://d-voting-election-backend.vercel.app/api/v1/auth/authentication?accountAddress=${selectedAccount}`,
       dataSignature
     );
    
