@@ -1,6 +1,6 @@
 <h1>D-Voting</h1> 
 
-Live URL: [Check Out](https://d-voting-swappy.vercel.app/)
+Live URL: [Check Out](https://d-voting-election.vercel.app/)
 
 <h2>Decentralized Voting System</h2>
 
