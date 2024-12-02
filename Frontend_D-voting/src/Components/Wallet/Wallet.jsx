@@ -48,12 +48,12 @@ const Wallet = () => {
               "Decentralized Voting: The Future of Elections"
             </motion.p>
             <a
-              href="https://er-swappy.vercel.app/"
+              href="https://github.com/Jayu1572003/D-voting"
               target="_blank"
               rel="noopener noreferrer"
               className="text-yellow-300 transition duration-300 text-lg "
             >
-              Created By: Er.Swappy❤️
+              Created By: Raisonians❤️
             </a>
           </h1>
           <button

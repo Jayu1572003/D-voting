@@ -72,7 +72,7 @@ function Footer() {
         {/* Social Media Icons Section */}
         <div className="flex space-x-6 mt-4">
           <a
-            href="https://github.com/swappy-sutar/"
+            href="https://github.com/Jayu1572003/D-voting"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white hover:text-black transition duration-300"
@@ -80,7 +80,7 @@ function Footer() {
             <FaGithub size={24} />
           </a>
           <a
-            href="https://www.instagram.com/swappy_sutar/"
+            href="https://www.instagram.com/mr_jayu_98_/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white hover:text-black transition duration-300"
@@ -88,7 +88,7 @@ function Footer() {
             <FaInstagram size={24} />
           </a>
           <a
-            href="https://www.linkedin.com/in/swapnil-sutar-2948971b4/"
+            href="https://www.linkedin.com/in/jayesh-ghevare/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white hover:text-black transition duration-300"
@@ -100,12 +100,12 @@ function Footer() {
         <div className="text-white text-sm mt-6 flex flex-col items-center md:flex-row justify-between w-full md:w-auto">
           <div className="mb-2 md:mb-0">
             <a
-              href="https://er-swappy.vercel.app/"
+              href="https://github.com/Jayu1572003/D-voting"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-yellow-300 transition duration-300 text-lg"
             >
-              Created By Er.Swappy❤️
+              Created By Raisonians❤️
             </a>
           </div>
           <div className="text-sm">
